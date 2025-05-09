@@ -21,7 +21,7 @@ Make sure your `tsconfig.json` has the following configuration:
 ```json
 {
   "compilerOptions": {
-    "rootDir": "./src/",
+    "rootDir": "./",
     "outDir": "./dist/",
     "target": "es2016",
     "module": "commonjs",
