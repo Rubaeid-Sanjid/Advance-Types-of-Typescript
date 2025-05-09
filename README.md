@@ -1,6 +1,6 @@
 # 📘 Advance Types of TypeScript
 
-Welcome to learn Advance Types of TypeScript** — a concise guide to understanding the Advance of TypeScript. This guide will help you grasp the core building blocks of TypeScript.
+Welcome to learn Advance Types of TypeScript — a concise guide to understanding the Advance of TypeScript. This guide will help you grasp the core building blocks of TypeScript.
 
 ## 📚 What You'll Learn
 - 
@@ -43,6 +43,4 @@ npm install -g ts-node-dev
 ts-node-dev --respawn --transpile-only src/index.ts
 ```
 
-Happy coding with TypeScript! 🚀
-
-```
+###Happy coding with TypeScript! 🚀
