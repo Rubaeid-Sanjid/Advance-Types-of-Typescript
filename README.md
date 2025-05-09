@@ -43,4 +43,4 @@ npm install -g ts-node-dev
 ts-node-dev --respawn --transpile-only src/index.ts
 ```
 
-###Happy coding with TypeScript! 🚀
+### Happy coding with TypeScript! 🚀
